@@ -39,7 +39,7 @@
 
 // Due to a bug in Unity when keyboard is grabbed,
 // client cannot be resized. This helps in debugging.
-#define GRAB_KBD
+// #define GRAB_KBD
 
 namespace mi = mir::input;
 namespace geom = mir::geometry;
